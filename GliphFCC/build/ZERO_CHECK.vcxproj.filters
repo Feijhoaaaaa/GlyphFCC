@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Code\GliphFCC\GliphFCC\build\CMakeFiles\d09b248f566de070965e07d9b9021d1a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EBB9B6F9-EB91-3459-B356-49343BAFB054}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
