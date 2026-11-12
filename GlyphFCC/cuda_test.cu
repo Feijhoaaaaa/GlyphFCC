@@ -24,7 +24,7 @@ int main() {
         b[i] = i * 10;
     }
 
-    add << <1, n >> > (a, b, result);
+    add<<<1, n>>>(a, b, result);
 
     cudaError_t status = cudaDeviceSynchronize();
     if (status != cudaSuccess) {
