@@ -1,4 +1,4 @@
-\# GliphFCC
+﻿\# GlyphFCC
 
 
 
@@ -10,7 +10,7 @@ GPU-accelerated image processing and character-based visual effects, built with 
 
 
 
-GliphFCC is an experimental GPU computing project focused on transforming images into animated visual representations using characters.
+GlyphFCC is an experimental GPU computing project focused on transforming images into animated visual representations using characters.
 
 
 
@@ -74,9 +74,9 @@ Run the following commands from the repository root using a Visual Studio x64 de
 
 ```powershell
 
-cmake -S GliphFCC -B build/GliphFCC -G "Visual Studio 18 2026" -A x64
+cmake -S GlyphFCC -B build/GlyphFCC -G "Visual Studio 18 2026" -A x64
 
-cmake --build build/GliphFCC --config Debug
+cmake --build build/GlyphFCC --config Debug
 
 ```
 
@@ -109,6 +109,7 @@ Image processing and animation features are not yet implemented.
 
 
 To be determined.
+
 
 
 
